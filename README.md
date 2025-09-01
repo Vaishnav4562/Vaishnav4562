@@ -21,7 +21,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 - 🌱 I’m currently Woring **FullStack Java Development**.
 
-- 🤝 I’m looking for help with **FullStack Java and Spring **.
+- 🤝 I’m looking for help with **FullStack Java and Spring**.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me **tvaishnav4562@gmail.com**
 
