@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/nagesh-mane/](https://www.linkedin.com/in/vaishnav-telange/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/vaishnav-telange/])
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tvaishnav4562@gmail.com)
 
 
@@ -29,7 +29,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/nagesh-mane/](https://www.linkedin.com/in/vaishnav-telange/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/nagesh-mane/](https://www.linkedin.com/in/vaishnav-telange/)" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/vaishnav-telange/](https://www.linkedin.com/in/vaishnav-telange/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/nagesh-mane/](https://www.linkedin.com/in/vaishnav-telange/)" height="30" width="40" /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
