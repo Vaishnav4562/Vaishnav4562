@@ -12,7 +12,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Vaishnav@4562" alt="Vaishnav"/></p>
 
-<img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
 
 <h3 style=>
